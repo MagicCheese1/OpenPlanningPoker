@@ -9,5 +9,4 @@ warp = { version = "0.3.7", features = ["tls"] }
 serde = { version = "1", features = ["derive"] }
 uuid = {version = "1.11.0", features = ["v4", "fast-rng", "macro-diagnostics", "serde"]}
 log = "0.4.22"
-warp-sessions = "1.0.19"
 cookie = "0.18.1"
